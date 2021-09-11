@@ -18,7 +18,7 @@ Howdy! I am a fifth-year Ph.D. candidate in the Computer Science & Engineering D
 <!--* <span style="color:red">New!!</span> Our paper "[Learning interpretable cellular and gene signature embeddings from single-cell transcriptomic data](https://www.biorxiv.org/content/10.1101/2021.01.13.426593v1.full)", collaborated with Prof. Yue Li at McGill Univesity, has been accepted to [Nature Communications](https://www.nature.com/ncomms/). Congrats to the leading author Yifan Zhao and Huiyu Cai.-->  
 
 Research Interests
-======
+<!--======-->
 * Graph Representation Learning, Graph Neural Networks
 * Recommender Systems
 * Drug Discovery
