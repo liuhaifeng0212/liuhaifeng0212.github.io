@@ -8,11 +8,9 @@ Learning the distributed representation of data has been proved very successful 
 
 Contact:
 ======
-Jian Tang, Microsoft Research, jiatang@microsoft.com, tangjianpku@gmail.com
+Haifeng Liu, Dalian University of Technology, liuhaifeng0212@qq.com, liuhaifeng@mail.dlut.edu.com
 
 Publications:
 ======
-* **Jian Tang,** Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan and  Qiaozhu Mei. [LINE: Large-scale Information Network Embedding](https://arxiv.org/abs/1503.03578). In WWW'15. <span style="color:red">(Most cited paper of WWW'15)</span>
-* **Jian Tang,** Meng Qu and Qiaozhu Mei. [PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](https://arxiv.org/abs/1508.00200). In KDD'15.
-* **Jian Tang,** Jingzhou Liu, Ming Zhang and Qiaozhu Mei. [Visualizing Large-scale and High-dimensional Data](https://arxiv.org/abs/1602.00370). In WWW'16. <span style='color:red'>(Best paper nomination 5/727)</span>
-* Meng Qu, **Jian Tang,** Jingbo Shang, Xiang Ren, Ming Zhang, Jiawei Han. An Attention-based Collaboration Framework for Multi-View Network Representation Learning, in Proc. of 2017 ACM Int. Conf. on Information and Knowledge Management (CIKM'17), Singapore, Nov. 2017
+
+[comment]: <> (* **Haifeng Liu,** Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan and  Qiaozhu Mei. [LINE: Large-scale Information Network Embedding]&#40;https://arxiv.org/abs/1503.03578&#41;. In WWW'15. <span style="color:red">&#40;Most cited paper of WWW'15&#41;</span>)

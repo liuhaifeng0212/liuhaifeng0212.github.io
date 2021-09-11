@@ -3,24 +3,24 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/
+#  - title: "Projects"
+#    url: /projects/
 
-  - title: "Softwares"
-    url: /softwares/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/
-    
-  - title: "Students"
-    url: /students/
-
-  - title: "Services"
-    url: /services/
-    
-  - title: "CV"
-    url: /cv/
+#  - title: "Softwares"
+#    url: /softwares/
+#
+#  - title: "Talks"
+#    url: /talks/
+#
+#  - title: "Teaching"
+#    url: /teaching/
+#
+#  - title: "Students"
+#    url: /students/
+#
+#  - title: "Services"
+#    url: /services/
+#
+#  - title: "CV"
+#    url: /cv/
     
