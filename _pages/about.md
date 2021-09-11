@@ -31,7 +31,7 @@ Research Interests
 
 
 Selected Publications
-<!--======--?
+<!--======-->
 * Haifeng Liu, Hongfei Lin, Chen Shen et al. [Drug Repositioning for SARS-CoV-2 Based on Graph Neural Network](https://ieeexplore.ieee.org/abstract/document/9313236). BIBM'20. <span style="color:red"></span> 
 <!--* Jian Tang, Meng Qu, and Qiaozhu Mei. [PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](https://arxiv.org/abs/1508.00200). KDD'15. \[[code](https://github.com/mnqu/PTE)\]-->
 
