@@ -24,14 +24,14 @@ Research Interests
 * Drug Discovery
 
 <!--Recent Papers-->
-======
+<!--======-->
 <!--* <span style="color:red">New!!</span> Chence Shi, Shitong Luo, Minkai Xu, Jian Tang. "[Learning Gradient Fields for Molecular Conformation Generation]()", to appear at ICML'21.-->  
 
 <!--* <span style="color:red">New!!</span> Minkai Xu, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bombarelli, Jian Tang. "[An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming]()", to appear at ICML'21.-->  
 
 
 Selected Publications
-======
+<!--======--?
 * Haifeng Liu, Hongfei Lin, Chen Shen et al. [Drug Repositioning for SARS-CoV-2 Based on Graph Neural Network](https://ieeexplore.ieee.org/abstract/document/9313236). BIBM'20. <span style="color:red"></span> 
 <!--* Jian Tang, Meng Qu, and Qiaozhu Mei. [PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](https://arxiv.org/abs/1508.00200). KDD'15. \[[code](https://github.com/mnqu/PTE)\]-->
 
