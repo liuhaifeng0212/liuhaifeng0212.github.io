@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Jian Tang's Homepage"
+locale                   : "China"
+title                    : "Haifeng Liu's Homepage"
 title_separator          : "-"
-name                     : &name "Jian Tang"
-description              : &description "Assitant Professor"
-description              : &description "HEC Montreal"
-description              : &description "Montreal Institute for Learning Alogorithms (MILA)"
+name                     : &name "Haifeng Liu"
+description              : &description "PhD"
+description              : &description "Department of Computer Science"
+description              : &description "Dalian University of Technology"
 url                      : https://liuhaifeng0212.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liuhaifeng0212/liuhaifeng0212.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Jian Tang"
+  name             : "Dr. Haifeng Liu"
   avatar           : "my.jpg"
   bio              : |
     Assistant Professor, <br>
     HEC Montreal <br>
     Montreal Institute for Learning Alogorithms (MILA)
-  location         : "Montreal, Canada"
+  location         : "Dalian, Liaoning, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=1ir6WUEAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ"
   email            :
   uri              :
   bitbucket        :
@@ -106,12 +106,12 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # xxx
   steam            :
   tumblr           :
-  twitter          : "liuhaifeng0212"
+  twitter          : "xxx"
   vine             :
-  weibo            : "1741301241/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"
+  weibo            : "https://weibo.com/u/5534297564"
   xing             :
   youtube          :
   wikipedia        :
