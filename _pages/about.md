@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Howdy! I am a fifth-year Ph.D. candidate in the Computer Science & Engineering Department at Dalian University of Technology, advised by Prof. Hongfei Lin. I'm broadly interested in the area of data mining, machine learning and recommender systems. Specifically, my research focuses on:
+Howdy! I am a fourth-year Ph.D. candidate in the Computer Science & Engineering Department at Dalian University of Technology, advised by Prof. Hongfei Lin. I'm broadly interested in the area of data mining, machine learning and recommender systems. Specifically, my research focuses on:
 
 * Fairness
 * Recommender Systems

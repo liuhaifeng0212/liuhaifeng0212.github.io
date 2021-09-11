@@ -23,3 +23,4 @@ permalink: /publications/
 
 <!--# 2021-->
 <!--* Yifan Zhao†, Huiyu Cai†, Zuobai Zhang, Jian Tang\*, Yue Li\* (2021). "[Learning interpretable cellular and gene signature embeddings from single-cell transcriptomic data](https://www.biorxiv.org/content/10.1101/2021.01.13.426593v1.full)". Nature Communications (accepted). Preprint: bioRxiv 2021.01.13.426593 (†equal contribution; *co-corresponding authors)-->
+* Haifeng Liu, Hongfei Lin\*, Chen Shen, Liang Yang\*, et al (2020). "[Drug Repositioning for SARS-CoV-2 Based on Graph Neural Network](https://ieeexplore.ieee.org/abstract/document/9313236)". BIBM 2020. (*co-corresponding authors)
