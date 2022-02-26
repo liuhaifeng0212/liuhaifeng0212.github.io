@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a fourth-year Ph.D. candidate in the [DUTIR Lab](https://ir.dlut.edu.cn/), Computer Science & Engineering Department at Dalian University of Technology, advised by Prof. [Hongfei Lin](http://faculty.dlut.edu.cn/linhongfei/zh_CN/index.htm). I'm broadly interested in the area of data mining, machine learning and recommender systems. Specifically, my research focuses on:
+Hello! I am a fourth-year Ph.D. candidate in the [DUTIR Lab](https://ir.dlut.edu.cn/), Computer Science & Engineering Department at Dalian University of Technology, advised by Prof. [Hongfei Lin](http://faculty.dlut.edu.cn/linhongfei/zh_CN/index.htm). 
+Currently, I am looking for a job as a university faculty member in China to further my research experience. Please contact me if you are interested.
+I'm broadly interested in the area of data mining, machine learning and recommender systems. Specifically, my research focuses on:
 
 * Fairness
 * Recommender Systems
