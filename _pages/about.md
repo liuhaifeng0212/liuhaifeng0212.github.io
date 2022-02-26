@@ -32,11 +32,11 @@ Research Interests
 
 Selected Publications
 <!--======-->
-* Haifeng Liu, Nan Zhao, Xiaokun Zhang, Hongfei Lin\*, Liang Yang, Bo Xu, Yuan Lin, Wenqi Fan (2022). "[Dual constraints and adversarial learning for fair recommenders](https://www.sciencedirect.com/science/article/pii/S0950705121011424)". Knowledge-Based Systems. (*corresponding authors)<span style="color:red"></span>
-* Haifeng Liu, Hongfei Lin\*, Chen Shen, Liang Yang, et al (2022). "[A network representation approach for COVID-19 drug recommendation](https://www.sciencedirect.com/science/article/pii/S1046202321002231)". Methods. (*corresponding authors)<span style="color:red"></span>
-* Haifeng Liu, Hongfei Lin, Chen Shen, Zhihao Yang, Jian Wang, Liang Yang\*  (2021). "[Self-Supervised Learning with Heterogeneous Graph Neural Network for COVID-19 Drug Recommendation](https://ieeexplore.ieee.org/abstract/document/9669340)". BIBM 2021. [Code](https://github.com/liuhaifeng0212/Drug2Cov) (*corresponding authors)<span style="color:red"></span>
-* Haifeng Liu, Hongfei Lin\*, Chen Shen, Liang Yang, et al (2020). "[Drug Repositioning for SARS-CoV-2 Based on Graph Neural Network](https://ieeexplore.ieee.org/abstract/document/9313236)". BIBM 2020. (*corresponding authors)<span style="color:red"></span>
-* Haifeng Liu, Hongfei Lin\*, Bo Xu, et al (2020). "[Improving Social Recommendations with Item Relationships](https://link.springer.com/chapter/10.1007/978-3-030-63820-7_87)". ICONIP 2020. (*corresponding authors)<span style="color:red"></span>
+* <b>Haifeng Liu</b>, Nan Zhao, Xiaokun Zhang, Hongfei Lin\*, Liang Yang, Bo Xu, Yuan Lin, Wenqi Fan (2022). "[Dual constraints and adversarial learning for fair recommenders](https://www.sciencedirect.com/science/article/pii/S0950705121011424)". Knowledge-Based Systems. (*corresponding authors)<span style="color:red"></span>
+* <b>Haifeng Liu</b>, Hongfei Lin\*, Chen Shen, Liang Yang, et al (2022). "[A network representation approach for COVID-19 drug recommendation](https://www.sciencedirect.com/science/article/pii/S1046202321002231)". Methods. (*corresponding authors)<span style="color:red"></span>
+* <b>Haifeng Liu</b>, Hongfei Lin, Chen Shen, Zhihao Yang, Jian Wang, Liang Yang\*  (2021). "[Self-Supervised Learning with Heterogeneous Graph Neural Network for COVID-19 Drug Recommendation](https://ieeexplore.ieee.org/abstract/document/9669340)". BIBM 2021. [Code](https://github.com/liuhaifeng0212/Drug2Cov) (*corresponding authors)<span style="color:red"></span>
+* <b>Haifeng Liu</b>, Hongfei Lin\*, Chen Shen, Liang Yang, et al (2020). "[Drug Repositioning for SARS-CoV-2 Based on Graph Neural Network](https://ieeexplore.ieee.org/abstract/document/9313236)". BIBM 2020. (*corresponding authors)<span style="color:red"></span>
+* <b>Haifeng Liu</b>, Hongfei Lin\*, Bo Xu, et al (2020). "[Improving Social Recommendations with Item Relationships](https://link.springer.com/chapter/10.1007/978-3-030-63820-7_87)". ICONIP 2020. (*corresponding authors)<span style="color:red"></span>
 
 
 <!--* Jian Tang, Meng Qu, and Qiaozhu Mei. [PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](https://arxiv.org/abs/1508.00200). KDD'15. \[[code](https://github.com/mnqu/PTE)\]-->
