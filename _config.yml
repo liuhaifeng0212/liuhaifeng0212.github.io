@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Haifeng Liu" "刘海峰"
+  name             : "Dr. Haifeng Liu 刘海峰"
   avatar           : "my.jpg"
   bio              : |
     Ph.D. <br>
     Dalian, Liaoning, China <br>
     Dalian University of Technology (DUTIR)
-  location         : "Dalian, Liaoning, China" "大连理工大学"
+  location         : "Dalian, Liaoning, China 大连理工大学"
   employer         :
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ"
   email            : "liuhaifeng0212@qq.com"
