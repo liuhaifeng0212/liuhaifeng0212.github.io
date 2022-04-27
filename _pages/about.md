@@ -18,7 +18,7 @@ I'm broadly interested in the area of data mining, machine learning and recommen
 
 <!--* <span style="color:red">New!!</span> Our paper "[Learning interpretable cellular and gene signature embeddings from single-cell transcriptomic data](https://www.biorxiv.org/content/10.1101/2021.01.13.426593v1.full)", collaborated with Prof. Yue Li at McGill Univesity, has been accepted to [Nature Communications](https://www.nature.com/ncomms/). Congrats to the leading author Yifan Zhao and Huiyu Cai.-->  
 
-Currently, I am looking for a job as a university faculty member in China (国内教职或海外博后) to further my research experience. Please contact me if you are interested.
+Currently, I am looking for a job as a university faculty member in China (国内教职或海外博后) to further my research experience. Please contact me if you are interested (liuhaifeng0212@qq.com).
 
 
 Research Interests
