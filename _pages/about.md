@@ -44,7 +44,7 @@ BIBM 2022
 <!--* <span style="color:red">New!!</span> Minkai Xu, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bombarelli, Jian Tang. "[An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming]()", to appear at ICML'21.-->  
 
 
-Selected Publications
+<b>Selected Publications</b>
 <!--======-->
 * <b>Haifeng Liu</b>, Hongfei Lin\*, Bo Xu, Nan Zhao, Dongzhen Wen, Xiaokun Zhang, Yuan Lin(2022). "[Perceived individual fairness with a molecular representation for medicine recommendations](https://www.sciencedirect.com/science/article/pii/S0950705122003550)". Knowledge-Based Systems. (*corresponding authors)<span style="color:red"></span>
 * <b>Haifeng Liu</b>, Yukai Wang, Hongfei Lin\*, Bo Xu, Nan Zhao. (2022). "[Mitigating Sensitive Data Exposure with Adversarial Learning for Fairness Recommendation Systems](https://link.springer.com/article/10.1007/s00521-022-07373-4)". Neural Computing & Applications. (*corresponding authors)
