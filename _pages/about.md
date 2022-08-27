@@ -27,6 +27,17 @@ Research Interests
 * Recommender Systems
 * Drug Discovery
 
+Academic Service
+
+Reviewer
+AAAI 2022, BIBM 2023
+Journal of Big Data (IF: 10.835)
+Knowledge and Information Systems (CCF B)
+
+
+Session Chair
+BIBM 2022
+
 <!--Recent Papers-->
 <!--======-->
 <!--* <span style="color:red">New!!</span> Chence Shi, Shitong Luo, Minkai Xu, Jian Tang. "[Learning Gradient Fields for Molecular Conformation Generation]()", to appear at ICML'21.-->  
