@@ -28,11 +28,12 @@ Currently, I am looking for a job as a university faculty member in China (å›½å†
 * Drug Discovery
 
 <b>Academic Service</b>
-Reviewer
+<!--======-->
+* Reviewer:
 AAAI 2022, BIBM 2023
 Journal of Big Data (IF: 10.835)
 Knowledge and Information Systems (CCF B)
-Session Chair
+* Session Chair:
 BIBM 2022
 
 <!--Recent Papers-->
