@@ -21,20 +21,17 @@ I'm broadly interested in the area of data mining, machine learning and recommen
 Currently, I am looking for a job as a university faculty member in China (国内教职或海外博后) to further my research experience. Please contact me if you are interested (liuhaifeng0212@qq.com).
 
 
-Research Interests
+<b>Research Interests</b>
 <!--======-->
 * Graph Representation Learning, Graph Neural Networks
 * Recommender Systems
 * Drug Discovery
 
-Academic Service
-
+<b>Academic Service</b>
 Reviewer
 AAAI 2022, BIBM 2023
 Journal of Big Data (IF: 10.835)
 Knowledge and Information Systems (CCF B)
-
-
 Session Chair
 BIBM 2022
 
