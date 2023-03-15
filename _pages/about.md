@@ -7,18 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a fourth-year Ph.D. candidate in the [DUTIR Lab](https://ir.dlut.edu.cn/), Computer Science & Engineering Department at Dalian University of Technology, advised by Prof. [Hongfei Lin](http://faculty.dlut.edu.cn/linhongfei/zh_CN/index.htm). 
+Hello! I am a lecturer in the School of Computer and Electronic Information / School of Artificial Intelligence at Nanjing Normal University. As a member of the Natural Language Processing and Educational Intelligence Research Lab, which is led by Prof. Junsheng Zhou, I am currently working on medical recommendation systems, natural language processing and other directions.
+I graduated from the [DUTIR Lab](https://ir.dlut.edu.cn/), Computer Science & Engineering Department at Dalian University of Technology, advised by Prof. [Hongfei Lin](http://faculty.dlut.edu.cn/linhongfei/zh_CN/index.htm). 
 I'm broadly interested in the area of data mining, machine learning and recommender systems. Specifically, my research focuses on:
 
 * Fairness
 * Recommender Systems
+* Medical Recomnmendation
+* Natural Language Processing
 
 <!--<span style="color:red">What's New</span>-->
 
 
 <!--* <span style="color:red">New!!</span> Our paper "[Learning interpretable cellular and gene signature embeddings from single-cell transcriptomic data](https://www.biorxiv.org/content/10.1101/2021.01.13.426593v1.full)", collaborated with Prof. Yue Li at McGill Univesity, has been accepted to [Nature Communications](https://www.nature.com/ncomms/). Congrats to the leading author Yifan Zhao and Huiyu Cai.-->  
 
-Currently, I am looking for a job as a university faculty member in China (国内教职或海外博后) to further my research experience. Please contact me if you are interested (liuhaifeng0212@qq.com).
+<!--Currently, I am looking for a job as a university faculty member in China (国内教职或海外博后) to further my research experience. Please contact me if you are interested (liuhaifeng0212@qq.com).-->
 
 
 <b>Research Interests</b>
