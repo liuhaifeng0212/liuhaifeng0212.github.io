@@ -10,9 +10,9 @@ locale                   : "China"
 title                    : "Haifeng Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Haifeng Liu 刘海峰"
-description              : &description "Ph.D."
+description              : &description "Lecturer"
 description              : &description "Department of Computer Science"
-description              : &description "Dalian University of Technology"
+description              : &description "Nanjing Normal University"
 url                      : https://liuhaifeng0212.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liuhaifeng0212/liuhaifeng0212.github.io"
@@ -83,10 +83,10 @@ author:
   name             : "Dr. Haifeng Liu 刘海峰"
   avatar           : "my.jpg"
   bio              : |
-    Ph.D. <br>
-    Dalian, Liaoning, China <br>
-    Dalian University of Technology (DUTIR)
-  location         : "Dalian, Liaoning, China"
+    Lecturer <br>
+    Nanjing, Jiangsu, China <br>
+    Nanjing Normal University
+  location         : "Nanjing, Jiangsu, China"
   employer         :
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ"
   email            : "liuhaifeng0212@qq.com"
