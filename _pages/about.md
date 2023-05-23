@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a lecturer in the School of Computer and Electronic Information / School of Artificial Intelligence at Nanjing Normal University. As a member of the Natural Language Processing and Educational Intelligence Research [Lab](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=18605), which is led by Prof. [Junsheng Zhou](http://ceai.njnu.edu.cn/user/?ID=05287), I am currently working on medical recommendation systems, natural language processing and other directions.
+Hello! I am a [lecturer](http://ceai.njnu.edu.cn/user/?ID=2023052310423255) in the School of Computer and Electronic Information / School of Artificial Intelligence at Nanjing Normal University. As a member of the Natural Language Processing and Educational Intelligence Research [Lab](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=18605), which is led by Prof. [Junsheng Zhou](http://ceai.njnu.edu.cn/user/?ID=05287), I am currently working on medical recommendation systems, natural language processing and other directions.
 I graduated from the [DUTIR Lab](https://ir.dlut.edu.cn/), Computer Science & Engineering Department at Dalian University of Technology in 2022, advised by Prof. [Hongfei Lin](http://faculty.dlut.edu.cn/linhongfei/zh_CN/index.htm). 
 I'm broadly interested in the area of data mining, machine learning and recommender systems. Specifically, my research focuses on:
 
