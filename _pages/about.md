@@ -33,9 +33,10 @@ I'm broadly interested in the area of data mining, machine learning and recommen
 <b>Academic Service</b>
 <!--======-->
 * Reviewer:
-AAAI 2022, BIBM 2023,
+AAAI 2022, BIBM 2022,
 Journal of Big Data (IF: 10.835),
 Knowledge and Information Systems (CCF B)
+Neural Computing and Applications
 <!--======-->
 * Session Chair:
 BIBM 2022
@@ -50,7 +51,7 @@ BIBM 2022
 <b>Selected Publications</b>
 <!--======-->
 * <b>Haifeng Liu</b>, Hongfei Lin\*, Bo Xu, Nan Zhao, Dongzhen Wen, Xiaokun Zhang, Yuan Lin(2022). "[Perceived individual fairness with a molecular representation for medicine recommendations](https://www.sciencedirect.com/science/article/pii/S0950705122003550)". Knowledge-Based Systems. (*corresponding authors)<span style="color:red"></span>
-* <b>Haifeng Liu</b>, Yukai Wang, Hongfei Lin\*, Bo Xu, Nan Zhao. (2022). "[Mitigating Sensitive Data Exposure with Adversarial Learning for Fairness Recommendation Systems](https://link.springer.com/article/10.1007/s00521-022-07373-4)". Neural Computing & Applications. (*corresponding authors)
+* <b>Haifeng Liu</b>, Yukai Wang, Hongfei Lin\*, Bo Xu, Nan Zhao. (2022). "[Mitigating Sensitive Data Exposure with Adversarial Learning for Fairness Recommendation Systems](https://link.springer.com/article/10.1007/s00521-022-07373-4                                      )". Neural Computing & Applications. (*corresponding authors)
 * <b>Haifeng Liu</b>, Nan Zhao, Xiaokun Zhang, Hongfei Lin\*, Liang Yang, Bo Xu, Yuan Lin, Wenqi Fan (2022). "[Dual constraints and adversarial learning for fair recommenders](https://www.sciencedirect.com/science/article/pii/S0950705121011424)". Knowledge-Based Systems. (*corresponding authors)<span style="color:red"></span>
 * <b>Haifeng Liu</b>, Hongfei Lin, Wenqi Fan, Yuqi Ren, Bo Xu, Xiaokun Zhang, Dongzhen Wen, Nan Zhao, Yuan Lin, Liang Yang\*(2022). "[Self-supervised learning for fair recommender systems](https://www.sciencedirect.com/science/article/abs/pii/S1568494622003957)". Applied Soft Computing. (*corresponding authors)<span style="color:red"></span>
 * <b>Haifeng Liu</b>, Hongfei Lin\*, Chen Shen, Liang Yang, et al (2022). "[A network representation approach for COVID-19 drug recommendation](https://www.sciencedirect.com/science/article/pii/S1046202321002231)". Methods. (*corresponding authors)<span style="color:red"></span>
