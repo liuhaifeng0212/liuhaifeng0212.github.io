@@ -11,7 +11,7 @@ Hello! I am a [lecturer](http://ceai.njnu.edu.cn/user/?ID=2023052310423255) in t
 I graduated from the [DUTIR Lab](https://ir.dlut.edu.cn/), Computer Science & Engineering Department at Dalian University of Technology in 2022, advised by Prof. [Hongfei Lin](http://faculty.dlut.edu.cn/linhongfei/zh_CN/index.htm). 
 I'm broadly interested in the area of data mining, machine learning and recommender systems. Specifically, my research focuses on:
 
-* Fairness
+* Education Agent
 * Recommender Systems
 * Medical Recommendation
 * Natural Language Processing
@@ -30,9 +30,10 @@ I'm broadly interested in the area of data mining, machine learning and recommen
 <b>Academic Service</b>
 <!--======-->
 * Reviewer:
-AAAI 2022, BIBM 2022, BIBM 2023,
+AAAI 2022, BIBM 2022, BIBM 2023, BIBM 2024,
 Journal of Big Data (IF: 10.835),
 Knowledge and Information Systems (CCF B),
+Information Science,
 Neural Computing and Applications
 
 CIPS-IR Committee member (Corresponding)
@@ -49,6 +50,9 @@ BIBM 2022
 
 <b>Selected Publications</b>
 <!--======-->
+* <b>Haifeng Liu</b>, Nan Zhao\*, Junsheng Zhou, and Weiguang Qu. "[Dual-Branch Contrast Enhancement for Drug Repositioning](https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ)". BIBM2024. (*corresponding authors)<span style="color:red"></span>
+* <b>Haifeng Liu</b>, Qiuyu Long, and Nan Zhao\*. "[Chiral Molecular Graph Encoder for Medication Recommendation](https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ)". BIBM2024. (*corresponding authors)<span style="color:red"></span>
+
 * <b>Haifeng Liu</b>, Hongfei Lin\*, Bo Xu, Nan Zhao, Dongzhen Wen, Xiaokun Zhang, Yuan Lin(2022). "[Perceived individual fairness with a molecular representation for medicine recommendations](https://www.sciencedirect.com/science/article/pii/S0950705122003550)". Knowledge-Based Systems. (*corresponding authors)<span style="color:red"></span>
 * <b>Haifeng Liu</b>, Yukai Wang, Hongfei Lin\*, Bo Xu, Nan Zhao. (2022). "[Mitigating Sensitive Data Exposure with Adversarial Learning for Fairness Recommendation Systems](https://link.springer.com/article/10.1007/s00521-022-07373-4                                                    )". Neural Computing & Applications. (*corresponding authors)
 * <b>Haifeng Liu</b>, Nan Zhao, Xiaokun Zhang, Hongfei Lin\*, Liang Yang, Bo Xu, Yuan Lin, Wenqi Fan (2022). "[Dual constraints and adversarial learning for fair recommenders](https://www.sciencedirect.com/science/article/pii/S0950705121011424)". Knowledge-Based Systems. (*corresponding authors)<span style="color:red"></span>
