@@ -50,8 +50,9 @@ BIBM 2022
 
 <b>Selected Publications</b>
 <!--======-->
-* <b>Haifeng Liu</b>, Nan Zhao\*, Junsheng Zhou, and Weiguang Qu. "[Dual-Branch Contrast Enhancement for Drug Repositioning](https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ)". BIBM2024. (*corresponding authors)<span style="color:red"></span>
-* <b>Haifeng Liu</b>, Qiuyu Long, and Nan Zhao\*. "[Chiral Molecular Graph Encoder for Medication Recommendation](https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ)". BIBM2024. (*corresponding authors)<span style="color:red"></span>
+* <b>Haifeng Liu</b>, Nan Zhao\*, Junsheng Zhou, and Weiguang Qu. "[Chiral Molecular Graph Encoder for Medication Recommendation](https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ)". BIBM2024. (*corresponding authors)<span style="color:red"></span>
+* <b>Haifeng Liu</b>, Qiuyu Long, and Nan Zhao\*. "[Dual-Branch Contrast Enhancement for Drug Repositioning](https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ)". BIBM2024. (*corresponding authors)<span style="color:red"></span>
+
 
 * <b>Haifeng Liu</b>, Hongfei Lin\*, Bo Xu, Nan Zhao, Dongzhen Wen, Xiaokun Zhang, Yuan Lin(2022). "[Perceived individual fairness with a molecular representation for medicine recommendations](https://www.sciencedirect.com/science/article/pii/S0950705122003550)". Knowledge-Based Systems. (*corresponding authors)<span style="color:red"></span>
 * <b>Haifeng Liu</b>, Yukai Wang, Hongfei Lin\*, Bo Xu, Nan Zhao. (2022). "[Mitigating Sensitive Data Exposure with Adversarial Learning for Fairness Recommendation Systems](https://link.springer.com/article/10.1007/s00521-022-07373-4                                                    )". Neural Computing & Applications. (*corresponding authors)
