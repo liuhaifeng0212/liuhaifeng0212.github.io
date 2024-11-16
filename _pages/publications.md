@@ -23,7 +23,8 @@ permalink: /publications/
 
 <!--# 2021-->
 <!--* Yifan Zhao†, Huiyu Cai†, Zuobai Zhang, Jian Tang\*, Yue Li\* (2021). "[Learning interpretable cellular and gene signature embeddings from single-cell transcriptomic data](https://www.biorxiv.org/content/10.1101/2021.01.13.426593v1.full)". Nature Communications (accepted). Preprint: bioRxiv 2021.01.13.426593 (†equal contribution; *co-corresponding authors)-->
-
+* <b>Haifeng Liu</b>, Nan Zhao\*, Junsheng Zhou, and Weiguang Qu. "[Chiral Molecular Graph Encoder for Medication Recommendation](https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ)". BIBM2024. (*corresponding authors)<span style="color:red"></span>
+* <b>Haifeng Liu</b>, Qiuyu Long, and Nan Zhao\*. "[Dual-Branch Contrast Enhancement for Drug Repositioning](https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ)". BIBM2024. (*corresponding authors)<span style="color:red"></span>
 * Yunzhi Qiu, Xiaokun Zhang, Weiwei Wang, Youlin Wu, Bo Xu, <b>Haifeng Liu</b>, Hongfei Lin. "[SEDGCN: Sentiment Enhanced Dual Graph Convolutional Networks for Detecting Adverse Drug Reactions](https://ieeexplore.ieee.org/abstract/document/10385261)". BIBM 2023. <span style="color:red"></span>(<b>CCF B</b>).
 * Xiaokun Zhang, Bo Xu, Liang Yang, Chenliang Li, Fenglong Ma, <b>Haifeng Liu</b>, Hongfei Lin\*(2022). "[Price DOES Matter! Modeling Price and Interest Preferences in Session-based Recommendation](https://arxiv.org/abs/2205.04181)". SIGIR 2022. <span style="color:red"></span>(<b>CCF A</b>).
 * Xiaokun Zhang, Hongfei Lin, Bo Xu, Chenliang Li, Yuan Lin, <b>Haifeng Liu</b>, Fenglong Ma(2022). "[Dynamic intent-aware iterative denoising network for session-based recommendation](https://www.sciencedirect.com/science/article/pii/S0306457322000590)". Information Processing & Management. <span style="color:red"></span>(<b>CCF B</b>).
