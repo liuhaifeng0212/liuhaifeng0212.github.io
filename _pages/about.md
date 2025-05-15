@@ -14,14 +14,7 @@ I'm broadly interested in the area of data mining, machine learning and recommen
 <span style="color:red"></span>
 <p>每年拥有部分硕士生名额，欢迎同学们提前联系：<span style="color: red; font-weight: bold;">每年拥有部分硕士生名额，欢迎同学们提前联系！！！（邮箱 liuhaifeng@nnu.edu.cn）</span></p>
 
-<style>
-    .highlight {
-        color: red;
-        font-weight: bold;
-    }
-</style>
-
-<p>这是普通文本，<span class="highlight">这部分文字被加粗标红</span>，然后继续普通文本。</p>
+**<span style="color:red">警告：</span>** 此功能已弃用。
 
 * Education Agent
 * Recommender Systems
