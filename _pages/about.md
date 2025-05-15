@@ -50,6 +50,9 @@ BIBM 2022
 
 <b>Selected Publications</b>
 <!--======-->
+
+* Qiuyu Long, Nan Zhao, <b>Haifeng Liu</b>\*. "DSNet: Predicting drug-side effect frequencies via Dual-Graph Ensemble and Similarity Learning". Knowledge-Based Systems. 中科院一区. (*corresponding authors)<span style="color:red"></span>.
+
 * <b>Haifeng Liu</b>, Nan Zhao\*, Junsheng Zhou, and Weiguang Qu. "[Chiral Molecular Graph Encoder for Medication Recommendation]([https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ](https://ieeexplore.ieee.org/document/10822474))". BIBM2024. (*corresponding authors)<span style="color:red"></span>(<b>CCF B</b>).
 * <b>Haifeng Liu</b>, Qiuyu Long, and Nan Zhao\*. "[Dual-Branch Contrast Enhancement for Drug Repositioning]([https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ](https://ieeexplore.ieee.org/document/10822290))". BIBM2024. (*corresponding authors)<span style="color:red"></span>(<b>CCF B</b>).
 * Yunzhi Qiu, Xiaokun Zhang, Weiwei Wang, Youlin Wu, Bo Xu, <b>Haifeng Liu</b>, Hongfei Lin. "[SEDGCN: Sentiment Enhanced Dual Graph Convolutional Networks for Detecting Adverse Drug Reactions](https://ieeexplore.ieee.org/abstract/document/10385261)". BIBM 2023. <span style="color:red"></span>(<b>CCF B</b>).
