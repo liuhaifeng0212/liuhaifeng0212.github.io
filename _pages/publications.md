@@ -24,8 +24,7 @@ permalink: /publications/
 <!--# 2021-->
 <!--* Yifan Zhao†, Huiyu Cai†, Zuobai Zhang, Jian Tang\*, Yue Li\* (2021). "[Learning interpretable cellular and gene signature embeddings from single-cell transcriptomic data](https://www.biorxiv.org/content/10.1101/2021.01.13.426593v1.full)". Nature Communications (accepted). Preprint: bioRxiv 2021.01.13.426593 (†equal contribution; *co-corresponding authors)-->
 
-* Qiuyu Long, Nan Zhao, <b>Haifeng Liu</b>\*. "[DSNet: Predicting drug-side effect frequencies via Dual-Graph Ensemble and Similarity Learning
-]()". Knowledge-Based Systems. 中科院一区. (*corresponding authors)<span style="color:red"></span>(<b>CCF B</b>).
+* Qiuyu Long, Nan Zhao, <b>Haifeng Liu</b>\*. "DSNet: Predicting drug-side effect frequencies via Dual-Graph Ensemble and Similarity Learning". Knowledge-Based Systems. 中科院一区. (*corresponding authors)<span style="color:red"></span>(<b>CCF B</b>).
 
 * <b>Haifeng Liu</b>, Nan Zhao\*, Junsheng Zhou, and Weiguang Qu. "[Chiral Molecular Graph Encoder for Medication Recommendation]([https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ](https://ieeexplore.ieee.org/document/10822474))". BIBM2024. (*corresponding authors)<span style="color:red"></span>(<b>CCF B</b>).
 * <b>Haifeng Liu</b>, Qiuyu Long, and Nan Zhao\*. "[Dual-Branch Contrast Enhancement for Drug Repositioning]([https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ](https://ieeexplore.ieee.org/document/10822290))". BIBM2024. (*corresponding authors)<span style="color:red"></span>(<b>CCF B</b>).
