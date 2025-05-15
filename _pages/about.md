@@ -11,10 +11,9 @@ Hello! I am a [lecturer](http://ceai.njnu.edu.cn/user/?ID=2023052310423255) in t
 I graduated from the [DUTIR Lab](https://ir.dlut.edu.cn/), Computer Science & Engineering Department at Dalian University of Technology in 2022, advised by Prof. [Hongfei Lin](http://faculty.dlut.edu.cn/linhongfei/zh_CN/index.htm). 
 I'm broadly interested in the area of data mining, machine learning and recommender systems. Specifically, my research focuses on:
 
-<span style="color:red"></span>
-<p>每年拥有部分硕士生名额，欢迎同学们提前联系：<span style="color: red; font-weight: bold;">每年拥有部分硕士生名额，欢迎同学们提前联系！！！（邮箱 liuhaifeng@nnu.edu.cn）</span></p>
+<b>每年拥有部分硕士生名额，欢迎同学们提前联系！！！（邮箱 liuhaifeng@nnu.edu.cn）</b>
 
-**<span style="color:red">警告：</span>** 此功能已弃用。
+
 
 * Education Agent
 * Recommender Systems
