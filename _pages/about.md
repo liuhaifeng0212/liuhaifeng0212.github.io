@@ -77,3 +77,7 @@ BIBM 2022
 <!--* Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan and Qiaozhu Mei. [LINE: Large-scale Information Network Embedding](https://arxiv.org/abs/1503.03578). WWW'15. \[[code](https://github.com/tangjianpku/LINE)\] <span style="color:red">(Most cited paper in WWW'15)</span>-->
 
 <!--* Jian Tang, Zhaoshi Meng, XuanLong Nguyen, Qiaozhu Mei and Ming Zhang. [Understanding the limiting factors of topic modeling via posterior contraction analysis](http://proceedings.mlr.press/v32/tang14.pdf). In proceedings of the 31st International Conference on Machine Learning (ICML), Beijing, June 2014. <span style="color:red">(Best paper award, 1/1500)</span>-->
+
+<b>Research Foundation</b>
+the National Natural Science Foundation of China (No. 62406146)
+Jiangsu Provincial Higher Education Institution Basic Science (Natural Science) Research Project Funding (No. 23KJB520016)
