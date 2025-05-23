@@ -79,5 +79,6 @@ BIBM 2022
 <!--* Jian Tang, Zhaoshi Meng, XuanLong Nguyen, Qiaozhu Mei and Ming Zhang. [Understanding the limiting factors of topic modeling via posterior contraction analysis](http://proceedings.mlr.press/v32/tang14.pdf). In proceedings of the 31st International Conference on Machine Learning (ICML), Beijing, June 2014. <span style="color:red">(Best paper award, 1/1500)</span>-->
 
 <b>Research Foundation</b>
+
 the National Natural Science Foundation of China (No. 62406146)
 Jiangsu Provincial Higher Education Institution Basic Science (Natural Science) Research Project Funding (No. 23KJB520016)
