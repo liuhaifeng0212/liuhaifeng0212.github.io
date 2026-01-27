@@ -55,7 +55,7 @@ BIBM 2022
 <b>Selected Publications</b>
 <!--======-->
 
-* Junjie Shi, Junjie Shi, <b>Haifeng Liu</b>\*, Nan Zhao, Junsheng Zhou. "Disentangling Confounders via Counterfactual Interventions for Fair Recommendations". Expert Systems with Applications. 2026. 中科院一区. (*corresponding authors)<span style="color:red"></span>.
+* Junjie Shi, <b>Haifeng Liu</b>\*, Nan Zhao, Junsheng Zhou. "Disentangling Confounders via Counterfactual Interventions for Fair Recommendations". Expert Systems with Applications. 2026. 中科院一区. (*corresponding authors)<span style="color:red"></span>.
 
 * Junjie Shi, Yanan Liu, <b>Haifeng Liu</b>\*, Junsheng Zhou. "Inter-Group Knowledge Transfer and Representation Distillation for Fair Recommendation". Knowledge-Based Systems. 2026. 中科院一区. (*corresponding authors)<span style="color:red"></span>.
 
