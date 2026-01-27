@@ -24,6 +24,14 @@ permalink: /publications/
 <!--# 2021-->
 <!--* Yifan Zhao†, Huiyu Cai†, Zuobai Zhang, Jian Tang\*, Yue Li\* (2021). "[Learning interpretable cellular and gene signature embeddings from single-cell transcriptomic data](https://www.biorxiv.org/content/10.1101/2021.01.13.426593v1.full)". Nature Communications (accepted). Preprint: bioRxiv 2021.01.13.426593 (†equal contribution; *co-corresponding authors)-->
 
+
+* Junjie Shi, <b>Haifeng Liu</b>\*, Nan Zhao, Junsheng Zhou. "Disentangling Confounders via Counterfactual Interventions for Fair Recommendations". Expert Systems with Applications. 2026. 中科院一区. (*corresponding authors)<span style="color:red"></span>.
+
+* Junjie Shi, Yanan Liu, <b>Haifeng Liu</b>\*, Junsheng Zhou. "Inter-Group Knowledge Transfer and Representation Distillation for Fair Recommendation". Knowledge-Based Systems. 2026. 中科院一区. (*corresponding authors)<span style="color:red"></span>.
+
+* <b>Haifeng Liu</b>,Qiuyu Long, Nan Zhao\*, Junsheng Zhou, and Yanhui Gu. "[Diffusion-Causal Synergy Enhancement for Drug
+Repositioning]([https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ])". BIBM2025. (*corresponding authors)<span style="color:red"></span>(<b>CCF B</b>).
+
 * Qiuyu Long, Nan Zhao, <b>Haifeng Liu</b>\*. "DSNet: Predicting drug-side effect frequencies via Dual-Graph Ensemble and Similarity Learning". Knowledge-Based Systems. 中科院一区. (*corresponding authors)<span style="color:red"></span>.
 
 * <b>Haifeng Liu</b>, Nan Zhao\*, Junsheng Zhou, and Weiguang Qu. "[Chiral Molecular Graph Encoder for Medication Recommendation]([https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ](https://ieeexplore.ieee.org/document/10822474))". BIBM2024. (*corresponding authors)<span style="color:red"></span>(<b>CCF B</b>).
