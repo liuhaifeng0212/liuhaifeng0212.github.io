@@ -10,13 +10,16 @@ redirect_from:
 Hello! I am a [lecturer](http://ceai.njnu.edu.cn/user/?ID=2023052310423255) in the School of Computer and Electronic Information / School of Artificial Intelligence at Nanjing Normal University. As a member of the Natural Language Processing and Educational Intelligence Research [Lab](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=18605), which is led by Prof. [Junsheng Zhou](http://ceai.njnu.edu.cn/user/?ID=05287), I am currently working on medical recommendation systems, natural language processing and other directions.
 I graduated from the [DUTIR Lab](https://ir.dlut.edu.cn/), Computer Science & Engineering Department at Dalian University of Technology in 2022, advised by Prof. [Hongfei Lin](http://faculty.dlut.edu.cn/linhongfei/zh_CN/index.htm). 
 I'm broadly interested in the area of data mining, machine learning and recommender systems. Specifically, my research focuses on:
+
+<p><span style="color: red; font-weight: bold;">每年拥有部分硕士生招生名额，欢迎同学们提前联系！！！ </span>(邮箱 liuhaifeng@nnu.edu.cn)</p>
+
 Chinese
 
 Hi！我是南京师范大学计算机与电子信息学院 / 人工智能学院的专任教师，隶属于周俊生教授带领的自然语言处理与教育智能实验室，目前主要从事医疗推荐系统、自然语言处理等方向的研究。
 2022 年，毕业于大连理工大学计算机科学与技术学院信息检索研究室（DUTIR），师从林鸿飞教授。
 我的研究兴趣广泛，涵盖大语言模型、智能体技术与推荐系统领域，具体研究方向为
 
-<p><span style="color: red; font-weight: bold;">每年拥有部分硕士生招生名额，欢迎同学们提前联系！！！ </span>(邮箱 liuhaifeng@nnu.edu.cn)</p>
+
 
 <b>近期研究重心</b>
 基于大语言模型驱动的智能体（LLM Based Agentic/Agent）
