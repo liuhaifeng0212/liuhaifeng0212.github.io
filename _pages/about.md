@@ -8,7 +8,7 @@ redirect_from: [/about/, /about.html]
 ---
 # 刘海峰
 
-<div class="intro"><p>Hi！我是南京师范大学计算机与电子信息学院 / 人工智能学院的<span class="hl">专任教师、硕士生导师</span>，现属于周俊生教授带领的<span class="hl">自然语言处理与教育智能实验室</span>，目前主要从事<span class="hl">大模型与智能体、自然语言处理</span>等方向的研究。2022 年毕业于大连理工大学计算机科学与技术学院（信息检索研究室），师从林鸿飞教授。研究兴趣广泛，涵盖<span class="hl">智慧教育</span>、<span class="hl">智慧医疗</span>等领域。</p></div>
+<div class="intro"><p>Hi！我是南京师范大学计算机与电子信息学院 / 人工智能学院的<span class="hl">专任教师、硕士生导师</span>，现属于周俊生教授带领的<span class="hl">自然语言处理与教育智能实验室</span>，目前主要从事<span class="hl">大模型与智能体、自然语言处理</span>等方向的研究。2022 年博士毕业于大连理工大学计算机科学与技术学院（信息检索研究室），师从林鸿飞教授。研究兴趣广泛，涵盖<span class="hl">智慧教育</span>、<span class="hl">智慧医疗</span>、<span class="hl">大模型与智能体</span>等领域。</p></div>
 
 <aside class="recruit-box"><span class="recruit-label">招生中</span><p>每年拥有部分硕士生招生名额，欢迎同学们提前联系；也欢迎有自我约束力和想法的本科生寻求指导。<a href="mailto:liuhaifeng@nnu.edu.cn">联系我（liuhaifeng@nnu.edu.cn） →</a></p></aside>
 
