@@ -1,54 +1,32 @@
 ---
-title: "Publications"
-author_profile: true
+layout: home
+title: "研究与论文"
+switch_url: /en/publications/
+body_class: publication-page
 permalink: /publications/
 ---
+# 研究与论文
 
-[Google Scholar](https://scholar.google.com.hk/citations?user=d1oKYJkAAAAJ&hl=zh-CN)  
+完整引用与指标请访问 [Google Scholar](https://scholar.google.com.hk/citations?user=d1oKYJkAAAAJ&hl=zh-CN)。<strong class="me">Haifeng Liu</strong> 为本人，* 表示通讯作者。
 
-<!--; # Tutorials-->
-<!--* Jian Tang, Fei Wang, Feixiong Cheng. "[Artificial Intelligence for Drug Discovery](https://deepgraphlearning.github.io/DrugTutorial_KDD2021/)". KDD'2021.-->
-<!--* Jian Tang, Fei Wang, Feixiong Cheng. "[Artificial Intelligence for Drug Discovery](https://deepgraphlearning.github.io/DrugTutorial_AAAI2021/)". AAAI'2021.-->
-<!--* William L. Hamilton and Jian Tang. “Graph Representation Learning”. Tutorial at the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI'19), Hawaii, USA, 2019.-->
-<!--* Jian Tang, Cheng Li and Qiaozhu Mei. "Learning representations of networks". Tutorial at KDD'17.-->
+## 发表论文
 
-
-
-<!--# Preprints-->
-
-<!--* Andreea Deac, Pierre-Luc Bacon, Jian Tang. "[Graph neural induction of value iteration](https://arxiv.org/pdf/2009.12604.pdf).", arXiv:2009.12604.-->
-<!--* Simeon Spasov, Alessandro Di Stefano, Pietro Liò, Jian Tang. "[GRADE: Graph Dynamic Embedding](https://arxiv.org/pdf/2007.08060.pdf).", arXiv:2007.08060.-->
-<!--* Hannah Alsdurf, Yoshua Bengio, Tristan Deleu, Prateek Gupta, Daphne Ippolito, Richard Janda, Max Jarvie, Tyler Kolody, Sekoul Krastev, Tegan Maharaj, Robert Obryk, Dan Pilat, Valerie Pisano, Benjamin Prud'homme, Meng Qu, Nasim Rahaman, Irina Rish, Jean-Franois Rousseau, Abhinav Sharma, Brooke Struck, Jian Tang, Martin Weiss, Yun William Yu. "[COVI White Paper](https://arxiv.org/abs/2005.08502).", arXiv:2005.08502.-->
-<!--* Jordan Hoffmann, Louis Maestrati, Yoshihide Sawada, Jian Tang, Jean Michel Sellier, Yoshua Bengio. "[Data-Driven Approach to Encoding and Decoding 3-D Crystal Structures](https://arxiv.org/abs/1909.00949)", arXiv:1909.00949.-->
-
-<!--# 2021-->
-<!--* Yifan Zhao†, Huiyu Cai†, Zuobai Zhang, Jian Tang\*, Yue Li\* (2021). "[Learning interpretable cellular and gene signature embeddings from single-cell transcriptomic data](https://www.biorxiv.org/content/10.1101/2021.01.13.426593v1.full)". Nature Communications (accepted). Preprint: bioRxiv 2021.01.13.426593 (†equal contribution; *co-corresponding authors)-->
-
-
-* Junjie Shi, <b>Haifeng Liu</b>\*, Nan Zhao, Junsheng Zhou. "Disentangling Confounders via Counterfactual Interventions for Fair Recommendations". Expert Systems with Applications. 2026. 中科院一区. (*corresponding authors)<span style="color:red"></span>.
-
-* Junjie Shi, Yanan Liu, <b>Haifeng Liu</b>\*, Junsheng Zhou. "Inter-Group Knowledge Transfer and Representation Distillation for Fair Recommendation". Knowledge-Based Systems. 2026. 中科院一区. (*corresponding authors)<span style="color:red"></span>.
-
-* <b>Haifeng Liu</b>,Qiuyu Long, Nan Zhao\*, Junsheng Zhou, and Yanhui Gu. "[Diffusion-Causal Synergy Enhancement for Drug
-Repositioning]([https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ])". BIBM2025. (*corresponding authors)<span style="color:red"></span>(<b>CCF B</b>).
-
-* Qiuyu Long, Nan Zhao, <b>Haifeng Liu</b>\*. "DSNet: Predicting drug-side effect frequencies via Dual-Graph Ensemble and Similarity Learning". Knowledge-Based Systems. 中科院一区. (*corresponding authors)<span style="color:red"></span>.
-
-* <b>Haifeng Liu</b>, Nan Zhao\*, Junsheng Zhou, and Weiguang Qu. "[Chiral Molecular Graph Encoder for Medication Recommendation]([https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ](https://ieeexplore.ieee.org/document/10822474))". BIBM2024. (*corresponding authors)<span style="color:red"></span>(<b>CCF B</b>).
-* <b>Haifeng Liu</b>, Qiuyu Long, and Nan Zhao\*. "[Dual-Branch Contrast Enhancement for Drug Repositioning]([https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ](https://ieeexplore.ieee.org/document/10822290))". BIBM2024. (*corresponding authors)<span style="color:red"></span>(<b>CCF B</b>).
-* Yunzhi Qiu, Xiaokun Zhang, Weiwei Wang, Youlin Wu, Bo Xu, <b>Haifeng Liu</b>, Hongfei Lin. "[SEDGCN: Sentiment Enhanced Dual Graph Convolutional Networks for Detecting Adverse Drug Reactions](https://ieeexplore.ieee.org/abstract/document/10385261)". BIBM 2023. <span style="color:red"></span>(<b>CCF B</b>).
-* Xiaokun Zhang, Bo Xu, Liang Yang, Chenliang Li, Fenglong Ma, <b>Haifeng Liu</b>, Hongfei Lin\*(2022). "[Price DOES Matter! Modeling Price and Interest Preferences in Session-based Recommendation](https://arxiv.org/abs/2205.04181)". SIGIR 2022. <span style="color:red"></span>(<b>CCF A</b>).
-* Xiaokun Zhang, Hongfei Lin, Bo Xu, Chenliang Li, Yuan Lin, <b>Haifeng Liu</b>, Fenglong Ma(2022). "[Dynamic intent-aware iterative denoising network for session-based recommendation](https://www.sciencedirect.com/science/article/pii/S0306457322000590)". Information Processing & Management. <span style="color:red"></span>(<b>CCF B</b>).
-* <b>Haifeng Liu</b>, Hongfei Lin, Wenqi Fan, Yuqi Ren, Bo Xu, Xiaokun Zhang, Dongzhen Wen, Nan Zhao, Yuan Lin, Liang Yang\*(2022). "[Self-supervised learning for fair recommender systems](https://www.sciencedirect.com/science/article/abs/pii/S1568494622003957)". Applied Soft Computing. (*corresponding authors)<span style="color:red"></span>(<b>IF: 8.263</b>).
-* <b>Haifeng Liu</b>, Hongfei Lin\*, Bo Xu, Nan Zhao, Dongzhen Wen, Xiaokun Zhang, Yuan Lin(2022). "[Perceived individual fairness with a molecular representation for medicine recommendations](https://www.sciencedirect.com/science/article/pii/S0950705122003550)". Knowledge-Based Systems. (*corresponding authors)(<b>IF: 8.139</b>)
-* <b>Haifeng Liu</b>, Yukai Wang, Hongfei Lin\*, Bo Xu, Nan Zhao. (2022). "[Mitigating Sensitive Data Exposure with Adversarial Learning for Fairness Recommendation Systems](https://link.springer.com/article/10.1007/s00521-022-07373-4)". Neural Computing & Applications. (*corresponding authors)(<b>IF: 5.102</b>)
-* <b>Haifeng Liu</b>, Nan Zhao, Xiaokun Zhang, Hongfei Lin\*, Liang Yang, Bo Xu, Yuan Lin, Wenqi Fan (2022). "[Dual constraints and adversarial learning for fair recommenders](https://www.sciencedirect.com/science/article/pii/S0950705121011424)". Knowledge-Based Systems. (*corresponding authors)(<b>IF: 8.139</b>)
-* <b>Haifeng Liu</b>, Hongfei Lin\*, Chen Shen, Liang Yang, et al (2022). "[A network representation approach for COVID-19 drug recommendation](https://www.sciencedirect.com/science/article/pii/S1046202321002231)". Methods. (*corresponding authors)(<b>IF: 4.647</b>)
-* <b>Haifeng Liu</b>, Hongfei Lin, Chen Shen, Zhihao Yang, Jian Wang, Liang Yang\*  (2021). "[Self-Supervised Learning with Heterogeneous Graph Neural Network for COVID-19 Drug Recommendation](https://ieeexplore.ieee.org/abstract/document/9669340)". BIBM 2021 (<b>CCF B</b>). [Code](https://github.com/liuhaifeng0212/Drug2Cov) (*corresponding authors)
-* <b>Haifeng Liu</b>, Hongfei Lin\*, Chen Shen, Liang Yang, et al (2020). "[Drug Repositioning for SARS-CoV-2 Based on Graph Neural Network](https://ieeexplore.ieee.org/abstract/document/9313236)". BIBM 2020 (<b>CCF B</b>). (*corresponding authors)
-* <b>Haifeng Liu</b>, Hongfei Lin\*, Bo Xu, et al (2020). "[Improving Social Recommendations with Item Relationships](https://link.springer.com/chapter/10.1007/978-3-030-63820-7_87)". ICONIP 2020 (<b>CCF C</b>). (*corresponding authors)
-
-
-
-
-
+<ol class="publication-timeline" aria-label="论文发表时间线">
+<li><time>2026</time><article><strong class="paper-name">CIGMA: Causal-inspired invariant graph matching with multi-view contrastive distillation for predicting herb-symptom associations</strong><p>Qiuyu Long, Nan Zhao, <strong class="me">Haifeng Liu</strong>, Qingpeng Zhang, Jiannan Yang</p><span class="rank rank-zone">中科院二区</span></article></li>
+<li><time>2026</time><article><strong class="paper-name">Self-enhancing prompt optimization for language style generation</strong><p><strong class="me">Haifeng Liu</strong>, Hedeng Hu, Wenxin Yang, Junsheng Zhou, Nan Zhao · <em>Knowledge-Based Systems</em></p><span class="rank rank-zone">中科院一区</span></article></li>
+<li><time>2026</time><article><strong class="paper-name">RPG-MoGe: Relation Prompt-Guided Multi-Order Generative Ensemble Framework for Speech Relation Extraction</strong><p>Jinzhong Ning, Paerhati Tulajiang, Yingying Le, et al., <strong class="me">Haifeng Liu</strong> · <em>IEEE TASLP</em></p><span class="rank rank-ccf">CCF B</span></article></li>
+<li><time>2026</time><article><strong class="paper-name">Disentangling Confounders via Counterfactual Interventions for Fair Recommendations</strong><p>Junjie Shi, <strong class="me">Haifeng Liu*</strong>, Nan Zhao, Junsheng Zhou · <em>Expert Systems with Applications</em></p><span class="rank rank-zone">中科院一区</span></article></li>
+<li><time>2026</time><article><strong class="paper-name">Inter-Group Knowledge Transfer and Representation Distillation for Fair Recommendation</strong><p>Junjie Shi, Yanan Liu, <strong class="me">Haifeng Liu*</strong>, Junsheng Zhou · <em>Knowledge-Based Systems</em></p><span class="rank rank-zone">中科院一区</span></article></li>
+<li><time>2025</time><article><strong class="paper-name">Diffusion-Causal Synergy Enhancement for Drug Repositioning</strong><p><strong class="me">Haifeng Liu</strong>, Qiuyu Long, Nan Zhao*, Junsheng Zhou, Yanhui Gu · BIBM 2025</p><span class="rank rank-ccf">CCF B</span></article></li>
+<li><time>2025</time><article><strong class="paper-name">DSNet: Predicting drug-side effect frequencies via Dual-Graph Ensemble and Similarity Learning</strong><p>Qiuyu Long, Nan Zhao, <strong class="me">Haifeng Liu*</strong> · <em>Knowledge-Based Systems</em></p><span class="rank rank-zone">中科院一区</span></article></li>
+<li><time>2024</time><article><strong class="paper-name">Chiral Molecular Graph Encoder for Medication Recommendation</strong><p><strong class="me">Haifeng Liu</strong>, Nan Zhao*, Junsheng Zhou, Weiguang Qu · BIBM 2024</p><span class="rank rank-ccf">CCF B</span></article></li>
+<li><time>2024</time><article><strong class="paper-name">Dual-Branch Contrast Enhancement for Drug Repositioning</strong><p><strong class="me">Haifeng Liu</strong>, Qiuyu Long, Nan Zhao* · BIBM 2024</p><span class="rank rank-ccf">CCF B</span></article></li>
+<li><time>2023</time><article><strong class="paper-name">SEDGCN: Sentiment Enhanced Dual Graph Convolutional Networks for Detecting Adverse Drug Reactions</strong><p>Yunzhi Qiu, Xiaokun Zhang, Weiwei Wang, et al., <strong class="me">Haifeng Liu</strong>, Hongfei Lin · BIBM 2023</p><span class="rank rank-ccf">CCF B</span></article></li>
+<li><time>2022</time><article><strong class="paper-name">Price DOES Matter! Modeling Price and Interest Preferences in Session-based Recommendation</strong><p>Xiaokun Zhang, Bo Xu, Liang Yang, et al., <strong class="me">Haifeng Liu</strong>, Hongfei Lin · SIGIR 2022</p><span class="rank rank-ccf rank-a">CCF A</span></article></li>
+<li><time>2022</time><article><strong class="paper-name">Dynamic intent-aware iterative denoising network for session-based recommendation</strong><p>Xiaokun Zhang, Hongfei Lin, Bo Xu, et al., <strong class="me">Haifeng Liu</strong> · <em>Information Processing & Management</em></p><span class="rank rank-ccf">CCF B</span></article></li>
+<li><time>2022</time><article><strong class="paper-name">Self-supervised learning for fair recommender systems</strong><p><strong class="me">Haifeng Liu</strong>, Hongfei Lin, Wenqi Fan, et al. · <em>Applied Soft Computing</em></p></article></li>
+<li><time>2022</time><article><strong class="paper-name">Perceived individual fairness with a molecular representation for medicine recommendations</strong><p><strong class="me">Haifeng Liu</strong>, Hongfei Lin*, Bo Xu, et al. · <em>Knowledge-Based Systems</em></p><span class="rank rank-zone">中科院一区</span></article></li>
+<li><time>2022</time><article><strong class="paper-name">Dual constraints and adversarial learning for fair recommenders</strong><p><strong class="me">Haifeng Liu</strong>, Nan Zhao, Xiaokun Zhang, et al. · <em>Knowledge-Based Systems</em></p><span class="rank rank-zone">中科院一区</span></article></li>
+<li><time>2021</time><article><strong class="paper-name">Self-Supervised Learning with Heterogeneous Graph Neural Network for COVID-19 Drug Recommendation</strong><p><strong class="me">Haifeng Liu</strong>, Hongfei Lin, Chen Shen, et al. · BIBM 2021</p><span class="rank rank-ccf">CCF B</span></article></li>
+<li><time>2020</time><article><strong class="paper-name">Drug Repositioning for SARS-CoV-2 Based on Graph Neural Network</strong><p><strong class="me">Haifeng Liu</strong>, Hongfei Lin*, Chen Shen, Liang Yang, et al. · BIBM 2020</p><span class="rank rank-ccf">CCF B</span></article></li>
+</ol>

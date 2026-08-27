@@ -1,67 +1,26 @@
 ---
-title: "Students"
+layout: home
+title: "学生与培养"
+switch_url: /en/students/
+body_class: students-page
 permalink: /students/
-author_profile: true
 ---
+# 学生与人才培养
 
-PhD
----
-* [Zhaocheng Zhu](https://kiddozhu.github.io/) (Peking University, 2018.9-)
-* [Meng Qu](https://mnqu.github.io/) (Peking University, 2019.1-)
-* [Andreea Deac](https://andreeadeac22.github.io/) (University of Cambridge, 2019.9-)
-* [Louis-Pascal Xhonneux](https://www.linkedin.com/in/louis-pascal-xhonneux-3a85a2141/?originalSubdomain=uk) (University of Cambridge, 2019.9-)
-* [Shengchao Liu](https://chao1224.github.io/) (University of Wisconsin–Madison, 2020.1-)
-* [Chence Shi](https://chenceshi.com/) (Peking University, 2020.9-)
-* [Minghao Xu](https://chrisallenming.github.io/) (Shanghai Jiaotong University, 2022.1-)
-* [Zuobai Zhang](https://oxer11.github.io/) (Fudan University, 2021.9-)
-* [Huiyu Cai]() (Peking University, 2021.9-)
-* [Farzaneh, Heidari]() (York University, 2021.9-) Co-supervised with Guillaume Rabusseau
+指导学生围绕大模型、教育智能体、智慧医疗与推荐系统开展研究和实践。
 
-MSc
----
-* [Minkai Xu](https://minkaixu.com/) (Shanghai Jiao Tong University, 2020.9-)
-* [Jiarui Lu]() (Shanghai Jiao Tong University, 2021.9-)
+## 在读学生
 
-Interns
----
-* Haoxiang Yang (Undergraduate, Peking University, summer 2021)
-* Chang Ma (Undergraduate, Peking University, summer 2021)
-* Yangtian Zhang (Undergraduate, Shanghai Jiaotong University, summer 2021)
-* Ruicheng Li (Undergraduate, Tsinghua University, summer 2021)
-* Zhanpeng Zhou (Undergraduate, Shanghai Jiaotong University, summer 2021)
+<ol class="student-cohorts"><li><time>2025</time><div><dl><dt class="degree-phd">博士生</dt><dd>王鑫 <span>联合指导</span></dd><dt class="degree-master">硕士生</dt><dd>赵锐奇 <span>独立指导</span>、张伟豪 <span>联合指导</span>、赵悦 <span>联合指导</span></dd></dl></div></li><li><time>2024</time><div><dl><dt class="degree-master">硕士生</dt><dd>杨文昕 <span>联合指导</span></dd><dt class="degree-undergraduate">本科生</dt><dd>章烨、潘政烨、陈彦闻</dd></dl></div></li><li><time>2023</time><div><dl><dt class="degree-undergraduate">本科生</dt><dd>时玉龙、蔡青宇、张硕、汪文韬、吴喜悦、陈铭宇、张婷、王思惠</dd></dl></div></li></ol>
 
-Alumni
----
-* Junkun Chen (Undergradaute, Tsinghua University, 2020.3-)
-* [Zuobai Zhang](https://oxer11.github.io/) (Undergradaute, Fudan University, summer 2020)
-* [Minghao Xu](https://chrisallenming.github.io/) (Master, Shanghai Jiao Tong University, summer 2020)
-* Huiyu Cai (Undergradaute, Peking University, summer 2020)
-* [Shuangrui Ding](https://mark12ding.github.io/) (Undergradaute, University of Michigan, summer 2020)
-* [Wangchunshu Zhou](https://michaelzhouwang.github.io/) (Master, Beihang University, summer 2020)
-* [Jinyi Hu](https://www.jinyihu.me/) (Undergraduate, Tsinghua University, summer 2020)
-* [Hanlin Zhang](https://www.linkedin.com/in/hanlin-zhang-931b46143/) (Undergraduate, South China University of Technology, summer 2020)
-* [Shitong Luo](https://luost.me/) (Undergraduate, Peking University, summer 2020)
-* Hengyi Wang (Undergraduate, Peking University, summer 2020)
-* Hangrui Bi (Undergraduate, Peking University, summer 2020)
-* Zheng Xiong (Master, Tsinghua University, 2020.1-2020.4) now a Ph.D. student at Oxford University
-* [Jordan Hoffmann](https://jhoffmann.org/) (Ph.D., Harvard University, 2019.5-2019.9) (Co-supervised with Yoshua Bengio) now a Research Scientist at DeepMind
-* [Tianyu Gao](https://gaotianyu.xyz/) (Undergraduate, Tsinghua University, summer 2019) now a Ph.D. student at Princeton University
-* Shengding Hu (Undergraduate, Tsinghua University, summer 2019) now a M.Sc. student at Tsinghua
-* [Xiaozhi Wang](https://bakser.github.io/) (Undergraduate, Tsinghua University, summer 2019) now a Ph.D. student at Tsinghua University
-* [Chence Shi](https://chenceshi.com/) (Undergraduate, Peking University, summer 2019) now a Ph.D. student at Mila
-* Zhijian Duan (Undergraduate, Peking University, summer 2019)
-* [Minkai Xu](https://minkaixu.com/) (Undergraduate, Shanghai Jiao Tong University, summer 2019) now a Ph.D. student at Mila
-* [Ledian Liu](http://bcmi.sjtu.edu.cn/home/liuledian/) (Undergraduate, Shanghai Jiao Tong University, summer 2019) now a M.Sc. student at Shanghai Jiao Tong University
-* [Carlos Lassance](https://cadurosar.github.io/) (Ph.D., IMT Atlantique, 2018.10-2019.9)
-* [Weiping Song](https://songweiping.github.io/) (Ph.D., Peking University, 2018.10-2019.9)
-* [Simeon Spasov](https://www.linkedin.com/in/simeon-spasov-27055293/) (Ph.D., University of Cambridge, summer 2019)
-* [Fan-Yun Sun](https://fanyun-sun.github.io/) (Undergraduate, National Taiwan University, 2018.12-2019.5), now a Ph.D. student at Stanford University
-* [Sahith Dambekodi](https://www.linkedin.com/in/sahith-dambekodi-31270b104/?originalSubdomain=in) (Undergraduate, BITS Pilani, 2019.1- 2019.5)
-* [Shagun Sodhani](https://shagunsodhani.com/), (Master Co-supervised with Yoshua Bengio, 2017.9-2019.9), now at Facebook AI Montreal
-* [Cheng Yang](http://nlp.csai.tsinghua.edu.cn/~yangcheng/) (Ph.D., Tsinghua University, 2018.6-2018.10), now a professor at Beijing University of Posts and Telecommunications
-* [Andreea Deac](https://andreeadeac22.github.io/) (Undergraduate, University of Cambridge, summer 2018) now a Ph.D. student at Mila
-* [Zhiqing Sun](https://www.cs.cmu.edu/~zhiqings/) (Undergraduate, Peking University, summer 2018) now a Ph.D. student at Carnegie Mellon University
-* Yizhou Zhang (Undergraduate, Peking University, summer 2018), now a Ph.D. student at University of South California
-* [Zilong Guo](https://www.linkedin.com/in/%E5%AD%90%E9%BE%99-%E9%83%AD-648573194/?locale=en_US) (Undergraduate, Shanghai Jiao Tong University, summer 2018)
-* [Yanru Qu](https://yanruqu.com/) (M.Sc., Shanghai Jiao Tong University, 2018.7- 2018.11) now a Ph.D. student at University of Illinois, Urbana-Champaign
-* [Yash Agrawal](https://www.linkedin.com/in/yash-agrawal-1b639b131/?originalSubdomain=in) (Undergradaute, IIT Kharagpur, 2018.10- 2019.1)
+## 毕业生
+
+<ol class="student-cohorts alumni"><li><time>2023</time><div><dl><dt class="degree-master">硕士生</dt><dd>查涵宇 <span>公务员 · 联合指导</span></dd></dl></div></li><li><time>2022</time><div><dl><dt class="degree-master">硕士生</dt><dd>史俊杰 <span>西安交通大学攻博</span>、胡河灯 <span>中国移动</span></dd><dt class="degree-undergraduate">本科生</dt><dd>龙秋予 <span>香港大学读研 · 跨校指导</span></dd></dl></div></li></ol>
+
+## 学科竞赛 · 第一指导教师
+
+<ul class="competition-grid"><li><strong><time>2026</time>中国大学生计算机设计大赛<span class="award-level national">国家级二等奖</span></strong><p>EduClaw：面向教育场景的技能融合智能体平台</p></li><li><strong><time>2026</time>中国高校计算机大赛<span class="award-level national">国家级三等奖</span></strong><p>AIGC 创新赛</p></li><li><strong><time>2026</time>中国高校智能机器人创意大赛<span class="award-level provincial">省级二等奖</span></strong><p>“云盏茶伴”家庭 AI 茶饮机器人</p></li><li><strong><time>2026</time>中国机器人及人工智能大赛<span class="award-level provincial">省级三等奖</span></strong><p>“SparkClaw”智慧教育智能体平台</p></li><li><strong><time>2025</time>全球校园人工智能算法精英大赛<span class="award-level national top">国家级一等奖 · 全国第一</span></strong><p>金融智能体赛道</p></li><li><strong><time>2025</time>中国大学生计算机设计大赛<span class="award-level national">国家级三等奖</span></strong><p>《CineAI》《智源南狮》</p></li><li><strong><time>2023</time>全球校园人工智能算法精英大赛<span class="award-level national">两项国家级二等奖</span></strong><p>电力大模型问答赛道</p></li></ul>
+
+## 大学生创新创业训练计划
+
+<div class="info-grid training"><article><div><span class="info-type year">2026</span><span class="info-role campus">校级</span></div><h3>教学导师智能体</h3><p>融合大模型和学科知识图谱的设计与实现</p></article><article><div><span class="info-type year">2025</span><span class="info-role excellent">优秀结项</span></div><h3>中小学科学教育智能体平台</h3><p>基于大模型 · 省级一般项目</p></article></div>

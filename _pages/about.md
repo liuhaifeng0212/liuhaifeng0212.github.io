@@ -1,106 +1,37 @@
 ---
+layout: home
 permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: "首页"
+switch_url: /en/
+excerpt: "刘海峰，南京师范大学专任教师、硕士生导师。"
+redirect_from: [/about/, /about.html]
 ---
-Hello! I am a [lecturer](http://ceai.njnu.edu.cn/user/?ID=2023052310423255) in the School of Computer and Electronic Information / School of Artificial Intelligence at Nanjing Normal University. As a member of the Natural Language Processing and Educational Intelligence Research [Lab](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=18605), which is led by Prof. [Junsheng Zhou](http://ceai.njnu.edu.cn/user/?ID=05287), I am currently working on medical recommendation systems, natural language processing and other directions.
-I graduated from the [DUTIR Lab](https://ir.dlut.edu.cn/), Computer Science & Engineering Department at Dalian University of Technology in 2022, advised by Prof. [Hongfei Lin](http://faculty.dlut.edu.cn/linhongfei/zh_CN/index.htm). 
-I'm broadly interested in the area of data mining, machine learning and recommender systems. Specifically, my research focuses on:
+# 刘海峰
 
-<p><span style="color: red; font-weight: bold;">每年拥有部分硕士生招生名额，欢迎同学们提前联系！！！ </span>(邮箱 liuhaifeng@nnu.edu.cn)</p>
+<p class="lead">南京师范大学计算机与电子信息学院 / 人工智能学院专任教师、硕士生导师，自然语言处理与教育智能实验室成员。</p>
 
-Chinese
+2022 年毕业于大连理工大学计算机科学与技术学院信息检索研究室，师从林鸿飞教授。目前主要从事大模型与智能体、自然语言处理研究，关注智慧教育与智慧医疗等应用场景。
 
-Hi！我是南京师范大学计算机与电子信息学院 / 人工智能学院的专任教师，隶属于周俊生教授带领的自然语言处理与教育智能实验室，目前主要从事医疗推荐系统、自然语言处理等方向的研究。
-2022 年，毕业于大连理工大学计算机科学与技术学院信息检索研究室（DUTIR），师从林鸿飞教授。
-我的研究兴趣广泛，涵盖大语言模型、智能体技术与推荐系统领域，具体研究方向为
+<aside class="recruit-box"><span class="recruit-label">招生中</span><p>每年拥有部分硕士生招生名额，欢迎同学们提前联系；也欢迎有自我约束力和想法的本科生寻求指导。<a href="mailto:liuhaifeng@nnu.edu.cn">联系我 →</a></p></aside>
 
+## 近期研究重心
 
+<div class="topic-grid"><article class="topic-card"><h3>大模型智能体</h3><p>LLM-based Agents 的架构、协作与场景应用。</p></article><article class="topic-card"><h3>检索增强生成</h3><p>外部知识检索、可信生成与知识更新。</p></article><article class="topic-card"><h3>智能体规划</h3><p>目标分解、工具调用、反馈与长期任务规划。</p></article></div>
 
-<b>近期研究重心</b>
+## 近期发表论文
 
-基于大语言模型驱动的智能体（LLM Based Agentic/Agent）
+<ol class="paper-list"><li><span class="paper-title"><a href="https://scholar.google.com/scholar?q=CIGMA+Causal-inspired+invariant+graph+matching">CIGMA: Causal-inspired invariant graph matching with multi-view contrastive distillation for predicting herb-symptom associations</a></span><span class="paper-meta">Qiuyu Long, Nan Zhao, <strong>Haifeng Liu</strong>, Qingpeng Zhang, Jiannan Yang <span class="badge">中科院二区</span></span></li><li><span class="paper-title"><a href="https://scholar.google.com/scholar?q=Self-enhancing+prompt+optimization+for+language+style+generation">Self-enhancing prompt optimization for language style generation</a></span><span class="paper-meta"><strong>Haifeng Liu</strong>, Hedeng Hu, Wenxin Yang, Junsheng Zhou, Nan Zhao · Knowledge-Based Systems, 2026 <span class="badge">中科院一区</span></span></li><li><span class="paper-title"><a href="https://scholar.google.com/scholar?q=RPG-MoGe+Relation+Prompt-Guided+Multi-Order+Generative+Ensemble">RPG-MoGe: Relation Prompt-Guided Multi-Order Generative Ensemble Framework for Speech Relation Extraction</a></span><span class="paper-meta">Jinzhong Ning, Paerhati Tulajiang, et al., <strong>Haifeng Liu</strong> · IEEE TASLP <span class="badge">CCF B</span></span></li><li><span class="paper-title"><a href="https://scholar.google.com/scholar?q=Disentangling+Confounders+via+Counterfactual+Interventions+for+Fair+Recommendations">Disentangling Confounders via Counterfactual Interventions for Fair Recommendations</a></span><span class="paper-meta">Junjie Shi, <strong>Haifeng Liu*</strong>, Nan Zhao, Junsheng Zhou · ESWA, 2026 <span class="badge">中科院一区</span></span></li></ol>
 
-检索增强生成（RAG）
+[查看全部研究与论文 →]({{ '/publications/' | relative_url }})
 
-智能体规划（Planning）
+## 科研项目
 
-<b>研究方向</b>
-* Education Agent
-* Recommender Systems
-* Large Language Model
+<div class="info-grid grants"><article><div><span class="info-type national">国家级</span><span class="info-role lead">主持</span></div><h3>国家自然科学基金青年基金项目</h3><p>No. 62406146</p></article><article><div><span class="info-type provincial">省级</span><span class="info-role lead">主持</span></div><h3>江苏省高等学校基础科学研究面上项目</h3><p>No. 23KJB520016</p></article><article><div><span class="info-type research">研发</span><span class="info-role member">参与</span></div><h3>中小学科学教育智能导师关键技术研发</h3><p>江苏省前沿技术研发项目 · 基于昇腾</p></article></div>
 
-<!--<span style="color:red">What's New</span>-->
+## 学术服务
 
+<div class="info-grid services"><article><div><span class="info-type academic">审稿服务</span></div><h3>Reviewer</h3><p>AAAI、BIBM、IPM、ESWA、EAAI、KBS、Journal of Big Data、Information Sciences</p></article><article><div><span class="info-type committee">学术组织</span></div><h3>信息检索专委会</h3><p>中国中文信息学会 · 通讯委员</p></article></div>
 
+## 荣誉
 
-
-<b>Research Interests</b>
-<!--======-->
-* Graph Representation Learning, Graph Neural Networks
-* Recommender Systems
-* Drug Discovery
-
-<b>Academic Service</b>
-<!--======-->
-* Reviewer:
-AAAI 2022, BIBM 2022, BIBM 2023, BIBM 2024,
-Journal of Big Data (IF: 10.835),
-Knowledge and Information Systems (CCF B),
-Information Science,
-Neural Computing and Applications
-
-CIPS-IR Committee member (Corresponding)
-<!--======-->
-* Session Chair:
-BIBM 2022
-
-<!--Recent Papers-->
-<!--======-->
-<!--* <span style="color:red">New!!</span> Chence Shi, Shitong Luo, Minkai Xu, Jian Tang. "[Learning Gradient Fields for Molecular Conformation Generation]()", to appear at ICML'21.-->  
-
-<!--* <span style="color:red">New!!</span> Minkai Xu, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bombarelli, Jian Tang. "[An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming]()", to appear at ICML'21.-->  
-
-
-<b>Selected Publications</b>
-<!--======-->
-
-* Junjie Shi, <b>Haifeng Liu</b>\*, Nan Zhao, Junsheng Zhou. "Disentangling Confounders via Counterfactual Interventions for Fair Recommendations". Expert Systems with Applications. 2026. 中科院一区. (*corresponding authors)<span style="color:red"></span>.
-
-* Junjie Shi, Yanan Liu, <b>Haifeng Liu</b>\*, Junsheng Zhou. "Inter-Group Knowledge Transfer and Representation Distillation for Fair Recommendation". Knowledge-Based Systems. 2026. 中科院一区. (*corresponding authors)<span style="color:red"></span>.
-
-* <b>Haifeng Liu</b>,Qiuyu Long, Nan Zhao\*, Junsheng Zhou, and Yanhui Gu. "[Diffusion-Causal Synergy Enhancement for Drug
-Repositioning]([https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ])". BIBM2025. (*corresponding authors)<span style="color:red"></span>(<b>CCF B</b>).
-
-* Qiuyu Long, Nan Zhao, <b>Haifeng Liu</b>\*. "DSNet: Predicting drug-side effect frequencies via Dual-Graph Ensemble and Similarity Learning". Knowledge-Based Systems. 2025. 中科院一区. (*corresponding authors)<span style="color:red"></span>.
-
-* <b>Haifeng Liu</b>, Nan Zhao\*, Junsheng Zhou, and Weiguang Qu. "[Chiral Molecular Graph Encoder for Medication Recommendation]([https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ](https://ieeexplore.ieee.org/document/10822474))". BIBM2024. (*corresponding authors)<span style="color:red"></span>(<b>CCF B</b>).
-* <b>Haifeng Liu</b>, Qiuyu Long, and Nan Zhao\*. "[Dual-Branch Contrast Enhancement for Drug Repositioning]([https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=d1oKYJkAAAAJ](https://ieeexplore.ieee.org/document/10822290))". BIBM2024. (*corresponding authors)<span style="color:red"></span>(<b>CCF B</b>).
-* Yunzhi Qiu, Xiaokun Zhang, Weiwei Wang, Youlin Wu, Bo Xu, <b>Haifeng Liu</b>, Hongfei Lin. "[SEDGCN: Sentiment Enhanced Dual Graph Convolutional Networks for Detecting Adverse Drug Reactions](https://ieeexplore.ieee.org/abstract/document/10385261)". BIBM 2023. <span style="color:red"></span>(<b>CCF B</b>).
-* Xiaokun Zhang, Bo Xu, Liang Yang, Chenliang Li, Fenglong Ma, <b>Haifeng Liu</b>, Hongfei Lin\*(2022). "[Price DOES Matter! Modeling Price and Interest Preferences in Session-based Recommendation](https://arxiv.org/abs/2205.04181)". SIGIR 2022. <span style="color:red"></span>(<b>CCF A</b>).
-* Xiaokun Zhang, Hongfei Lin, Bo Xu, Chenliang Li, Yuan Lin, <b>Haifeng Liu</b>, Fenglong Ma(2022). "[Dynamic intent-aware iterative denoising network for session-based recommendation](https://www.sciencedirect.com/science/article/pii/S0306457322000590)". Information Processing & Management. <span style="color:red"></span>(<b>CCF B</b>).
-* <b>Haifeng Liu</b>, Hongfei Lin, Wenqi Fan, Yuqi Ren, Bo Xu, Xiaokun Zhang, Dongzhen Wen, Nan Zhao, Yuan Lin, Liang Yang\*(2022). "[Self-supervised learning for fair recommender systems](https://www.sciencedirect.com/science/article/abs/pii/S1568494622003957)". Applied Soft Computing. (*corresponding authors)<span style="color:red"></span>(<b>IF: 8.263</b>).
-* <b>Haifeng Liu</b>, Hongfei Lin\*, Bo Xu, Nan Zhao, Dongzhen Wen, Xiaokun Zhang, Yuan Lin(2022). "[Perceived individual fairness with a molecular representation for medicine recommendations](https://www.sciencedirect.com/science/article/pii/S0950705122003550)". Knowledge-Based Systems. (*corresponding authors)(<b>IF: 8.139</b>)
-* <b>Haifeng Liu</b>, Yukai Wang, Hongfei Lin\*, Bo Xu, Nan Zhao. (2022). "[Mitigating Sensitive Data Exposure with Adversarial Learning for Fairness Recommendation Systems](https://link.springer.com/article/10.1007/s00521-022-07373-4)". Neural Computing & Applications. (*corresponding authors)(<b>IF: 5.102</b>)
-* <b>Haifeng Liu</b>, Nan Zhao, Xiaokun Zhang, Hongfei Lin\*, Liang Yang, Bo Xu, Yuan Lin, Wenqi Fan (2022). "[Dual constraints and adversarial learning for fair recommenders](https://www.sciencedirect.com/science/article/pii/S0950705121011424)". Knowledge-Based Systems. (*corresponding authors)(<b>IF: 8.139</b>)
-* <b>Haifeng Liu</b>, Hongfei Lin\*, Chen Shen, Liang Yang, et al (2022). "[A network representation approach for COVID-19 drug recommendation](https://www.sciencedirect.com/science/article/pii/S1046202321002231)". Methods. (*corresponding authors)(<b>IF: 4.647</b>)
-* <b>Haifeng Liu</b>, Hongfei Lin, Chen Shen, Zhihao Yang, Jian Wang, Liang Yang\*  (2021). "[Self-Supervised Learning with Heterogeneous Graph Neural Network for COVID-19 Drug Recommendation](https://ieeexplore.ieee.org/abstract/document/9669340)". BIBM 2021 (<b>CCF B</b>). [Code](https://github.com/liuhaifeng0212/Drug2Cov) (*corresponding authors)
-* <b>Haifeng Liu</b>, Hongfei Lin\*, Chen Shen, Liang Yang, et al (2020). "[Drug Repositioning for SARS-CoV-2 Based on Graph Neural Network](https://ieeexplore.ieee.org/abstract/document/9313236)". BIBM 2020 (<b>CCF B</b>). (*corresponding authors)
-* <b>Haifeng Liu</b>, Hongfei Lin\*, Bo Xu, et al (2020). "[Improving Social Recommendations with Item Relationships](https://link.springer.com/chapter/10.1007/978-3-030-63820-7_87)". ICONIP 2020 (<b>CCF C</b>). (*corresponding authors)
-
-
-<!--* Jian Tang, Meng Qu, and Qiaozhu Mei. [PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](https://arxiv.org/abs/1508.00200). KDD'15. \[[code](https://github.com/mnqu/PTE)\]-->
-
-<!--* Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan and Qiaozhu Mei. [LINE: Large-scale Information Network Embedding](https://arxiv.org/abs/1503.03578). WWW'15. \[[code](https://github.com/tangjianpku/LINE)\] <span style="color:red">(Most cited paper in WWW'15)</span>-->
-
-<!--* Jian Tang, Zhaoshi Meng, XuanLong Nguyen, Qiaozhu Mei and Ming Zhang. [Understanding the limiting factors of topic modeling via posterior contraction analysis](http://proceedings.mlr.press/v32/tang14.pdf). In proceedings of the 31st International Conference on Machine Learning (ICML), Beijing, June 2014. <span style="color:red">(Best paper award, 1/1500)</span>-->
-
-<b>Research Foundation</b>
-
-the National Natural Science Foundation of China (No. 62406146)
-
-Jiangsu Provincial Higher Education Institution Basic Science (Natural Science) Research Project Funding (No. 23KJB520016)
+<div class="info-grid honors"><article><div><span class="info-type year">2025</span><span class="award-level university">校级荣誉</span></div><h3>南京师范大学本科优秀教学奖</h3><p>本科教学</p></article><article><div><span class="info-type year">2024</span><span class="award-level provincial">省级</span></div><h3>优秀指导教师</h3><p>全球校园人工智能算法精英大赛</p></article><article><div><span class="info-type year">2023</span><span class="award-level national">国家级</span></div><h3>优秀指导教师</h3><p>全球校园人工智能算法精英大赛</p></article></div>
