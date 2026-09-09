@@ -8,7 +8,7 @@ permalink: /projects/
 
 ## 科研项目
 
-<div class="info-grid grants"><article><div><span class="info-type national">国家级</span><span class="info-role lead">主持</span></div><h3>国家自然科学基金青年基金项目</h3><p>No. 62406146</p></article><article><div><span class="info-type provincial">省级</span><span class="info-role lead">主持</span></div><h3>江苏省高等学校基础科学（自然科学）研究面上项目</h3><p>No. 23KJB520016</p></article><article><div><span class="info-type research">研发</span><span class="info-role member">参与</span></div><h3>基于昇腾的中小学科学教育智能导师关键技术研发</h3><p>江苏省前沿技术研发项目</p></article></div>
+<div class="info-grid grants"><article><div><span class="info-type national">国家级</span><span class="info-role lead">主持</span></div><h3>国家自然科学基金青年基金项目</h3><p>No. 62406146</p></article><article><div><span class="info-type provincial">省级</span><span class="info-role lead">主持</span></div><h3>江苏省高等学校基础科学（自然科学）研究面上项目</h3><p>No. 23KJB520016</p></article><article><div><span class="info-type research">省级</span><span class="info-role member">参与</span></div><h3>基于昇腾的中小学科学教育智能导师关键技术研发</h3><p>江苏省前沿技术研发项目</p></article></div>
 
 ## 本科课程教学
 
