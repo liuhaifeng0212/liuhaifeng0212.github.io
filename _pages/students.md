@@ -11,7 +11,7 @@ permalink: /students/
 
 ## 在读学生
 
-<ol class="student-cohorts"><li><time>2025</time><div><dl><dt class="degree-phd">博士生</dt><dd>王鑫 <span>联合指导</span></dd><dt class="degree-master">硕士生</dt><dd>赵锐奇 <span>独立指导</span>、张伟豪 <span>联合指导</span>、赵悦 <span>联合指导</span></dd></dl></div></li><li><time>2024</time><div><dl><dt class="degree-master">硕士生</dt><dd>杨文昕 <span>联合指导</span></dd><dt class="degree-undergraduate">本科生</dt><dd>章烨、潘政烨、陈彦闻</dd></dl></div></li><li><time>2023</time><div><dl><dt class="degree-undergraduate">本科生</dt><dd>时玉龙、蔡青宇、张硕、汪文韬、吴喜悦、陈铭宇、张婷、王思惠</dd></dl></div></li></ol>
+<ol class="student-cohorts"><li><time>2026</time><div><dl><dt class="degree-master">硕士生</dt><dd>马益嘉、张迪</dd></dl></div></li><li><time>2025</time><div><dl><dt class="degree-phd">博士生</dt><dd>王鑫 <span>联合指导</span></dd><dt class="degree-master">硕士生</dt><dd>赵锐奇 <span>独立指导</span>、张伟豪 <span>联合指导</span>、赵悦 <span>联合指导</span></dd><dt class="degree-undergraduate">本科生</dt><dd>孙嘉皓</dd></dl></div></li><li><time>2024</time><div><dl><dt class="degree-master">硕士生</dt><dd>杨文昕 <span>联合指导</span></dd><dt class="degree-undergraduate">本科生</dt><dd>章烨、潘政烨、陈彦闻</dd></dl></div></li><li><time>2023</time><div><dl><dt class="degree-undergraduate">本科生</dt><dd>时玉龙、蔡青宇、张硕、汪文韬、吴喜悦、陈铭宇、张婷、王思惠</dd></dl></div></li></ol>
 
 ## 毕业生
 
