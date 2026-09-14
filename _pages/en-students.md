@@ -10,7 +10,7 @@ body_class: students-page
 
 ## Current Students
 
-<ol class="student-cohorts"><li><time>2025</time><div><dl><dt class="degree-phd">Ph.D.</dt><dd>Xin Wang <span>co-supervised</span></dd><dt class="degree-master">Master's</dt><dd>Ruiqi Zhao, Weihao Zhang, Yue Zhao</dd></dl></div></li><li><time>2024</time><div><dl><dt class="degree-master">Master's</dt><dd>Wenxin Yang</dd><dt class="degree-undergraduate">Undergraduate</dt><dd>Ye Zhang, Zhengye Pan, Yanwen Chen</dd></dl></div></li><li><time>2023</time><div><dl><dt class="degree-undergraduate">Undergraduate</dt><dd>Yulong Shi, Qingyu Cai, Shuo Zhang, Wentao Wang, Xiyue Wu, Mingyu Chen, Ting Zhang, Sihui Wang</dd></dl></div></li></ol>
+<ol class="student-cohorts"><li><time>2026</time><div><dl><dt class="degree-master">Master's</dt><dd>Yijia Ma, Di Zhang</dd></dl></div></li><li><time>2025</time><div><dl><dt class="degree-phd">Ph.D.</dt><dd>Xin Wang <span>co-supervised</span></dd><dt class="degree-master">Master's</dt><dd>Ruiqi Zhao, Weihao Zhang, Yue Zhao</dd><dt class="degree-undergraduate">Undergraduate</dt><dd>Jiahao Sun</dd></dl></div></li><li><time>2024</time><div><dl><dt class="degree-master">Master's</dt><dd>Wenxin Yang</dd><dt class="degree-undergraduate">Undergraduate</dt><dd>Ye Zhang, Zhengye Pan, Yanwen Chen</dd></dl></div></li><li><time>2023</time><div><dl><dt class="degree-undergraduate">Undergraduate</dt><dd>Yulong Shi, Qingyu Cai, Shuo Zhang, Wentao Wang, Xiyue Wu, Mingyu Chen, Ting Zhang, Sihui Wang</dd></dl></div></li></ol>
 
 ## Alumni
 
