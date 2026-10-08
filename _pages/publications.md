@@ -12,6 +12,7 @@ permalink: /publications/
 ## 发表论文
 
 <ol class="publication-timeline" aria-label="论文发表时间线">
+<li><time>2026</time><article><strong class="paper-name">LPDG-RAG: Leveraging Probabilistic Rewards and Dynamic Granularity for Retrieval-Augmented Generation</strong><p><strong class="me">Haifeng Liu</strong>, Ruiqi Zhao, Nan Zhao, et al. · <em>IEEE TASLP</em> <span class="rank rank-ccf">CCF B</span></p></article></li>
 <li><time>2026</time><article><strong class="paper-name">CIGMA: Causal-inspired invariant graph matching with multi-view contrastive distillation for predicting herb-symptom associations</strong><p>Qiuyu Long, Nan Zhao, <strong class="me">Haifeng Liu</strong>, Qingpeng Zhang, Jiannan Yang <span class="rank rank-zone">中科院二区</span></p></article></li>
 <li><time>2026</time><article><strong class="paper-name">Self-enhancing prompt optimization for language style generation</strong><p><strong class="me">Haifeng Liu</strong>, Hedeng Hu, Wenxin Yang, Junsheng Zhou, Nan Zhao · <em>Knowledge-Based Systems</em> <span class="rank rank-zone">中科院一区</span></p></article></li>
 <li><time>2026</time><article><strong class="paper-name">RPG-MoGe: Relation Prompt-Guided Multi-Order Generative Ensemble Framework for Speech Relation Extraction</strong><p>Jinzhong Ning, Paerhati Tulajiang, Yingying Le, et al., <strong class="me">Haifeng Liu</strong> · <em>IEEE TASLP</em> <span class="rank rank-ccf">CCF B</span></p></article></li>
